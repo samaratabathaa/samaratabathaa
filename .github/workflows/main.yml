@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -14,14 +14,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Generate Snake Animation
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: samaratabathaa
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Push to output branch
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
