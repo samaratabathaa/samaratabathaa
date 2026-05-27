@@ -1,5 +1,15 @@
 <h1 align="center">Oii!! Eu sou a Samara Lima</h1>
 
+💻 Estudante de Ciência da Computação
+
+💼 Atuando como Assistente Administrativa na Bayer
+
+📍 Uberlândia, Minas Gerais, Brasil
+
+## Sobre mim 
+
+Estudante de Ciência da Computação na UNITRI, atualmente atuando na Bayer com SAP, Excel e Power BI. Me interesso por Dados, BI e Automação, e estou sempre buscando evoluir meus conhecimentos para conectar tecnologia e resolução de problemas reais. 
+
 ###
 
 <div align="center">
@@ -30,6 +40,12 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samaratabathaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaratabathaa&layout=compact&theme=dark&include_all_commits=true&cache_seconds=1800)
+
+  <img 
+    align="left" 
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=murilodemarco&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+  />
   
 </div>
 
@@ -43,3 +59,4 @@
 
 ## Contato
 Email: samaratabatha7@gmail.com
+Linkedin: https://www.linkedin.com/in/samaraalima/
