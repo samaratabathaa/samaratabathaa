@@ -37,9 +37,12 @@ Estudante de Ciência da Computação na UNITRI, atualmente atuando na Bayer com
 <div style="text-align: center;" align="center">
   <h3> Github Status </h3>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=samaratabathaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaratabathaa&layout=compact&theme=dark&include_all_commits=true&cache_seconds=1800)
+ <p>
+  <img 
+    align="left" 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=murilodemarco&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+  />
 
   <img 
     align="left" 
