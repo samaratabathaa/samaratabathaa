@@ -30,7 +30,7 @@ Estudante de Ciência da Computação na UNITRI, atualmente atuando na Bayer com
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="BI logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" height="40" alt="GitHub logo" />
+  <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" height="40" alt="GitHub logo" />
 </div>
 
 ###
