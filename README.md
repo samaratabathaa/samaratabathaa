@@ -27,6 +27,8 @@ Estudante de Ciência da Computação na UNITRI, atualmente atuando na Bayer com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" height="40" alt="BI logo" />
 </div>
 
 ###
