@@ -45,20 +45,24 @@ Estudante de Ciência da Computação na UNITRI, atualmente atuando na Bayer com
 <div style="text-align: center;" align="center">
   <h3> Github Status </h3>
   
- <p>
+ 
+<p>
   <img 
     align="left" 
-    width="48%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=samaratabathaa&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=86400"
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=samaratabathaa&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=samaratabathaa&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=samaratabathaa&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-  
-</div>
+
+</p>
 
 ###
 
